@@ -7,12 +7,12 @@
     },
     {
       "text": "Our Rides",
-      "url": "/pages/our-rides",
+      "url": "/rides",
       "external": false
     },
     {
       "text": "Join Us",
-      "url": "/pages/join-us",
+      "url": "/join",
       "external": false
     }
   ]
