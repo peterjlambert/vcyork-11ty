@@ -19,6 +19,9 @@
   --color-theme-primary-glare: #{get-color('primary-glare')};
   --color-theme-highlight: #{get-color('highlight')};
   --color-theme-highlight-block: #{get-color('highlight')};
+
+  --color-light: #{get-color('light')};
+  --color-dark: #{get-color('dark')}
 }
 
 @include dark-mode() {
@@ -33,8 +36,8 @@
   --color-action-bg: var(--color-theme-primary-glare);
   --color-action-text: #{get-color('dark')};
   --color-theme-highlight: #{get-color('highlight')};
-  --color-theme-highlight-block: #{get-color('slate')};
-  --color-theme-feature-text: #{get-color('highlight')};
+  --color-theme-highlight-block: #{get-color('mid')};
+  --color-theme-feature-text: #{get-color('dark')};
 }
 
 body {
