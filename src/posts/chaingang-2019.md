@@ -1,6 +1,9 @@
 ---
 layout: layouts/post.njk
 title: Chaingang 2019
+metaDesc: >-
+  Chaingang starts again next week (Tuesday 2nd and Thursday 3rd April) at the
+  usual place (B&Q deliveries entrance, Osbaldwick Link Road).
 date: 2019-02-28T14:55:00.061Z
 tags:
   - chaingang
