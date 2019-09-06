@@ -6,9 +6,12 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andybelldesign/hylia",
-      "external": true
+      "text": "Rides",
+      "url": "/rides"
+    },
+    {
+      "text": "Join",
+      "url": "/join"
     },
     {
       "text": "Twitter",
