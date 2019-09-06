@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Join Us
-permalink: join
+permalink: join/index.html
 ---
 ## Want to be a part of VC York?
 
