@@ -23,18 +23,9 @@ Both Tuesday and Thursday rides depart at 6pm from B&Q's delivery entrance on Os
 
 Tuesday's route takes in Sheriff Hutton and Easingwold over slightly rolling terrain, and returns to York via Benningborough Hall and Tollerton.
 
-* View Tuesday's chaingang route
-* Download a .TCX of Tuesday's chaingang route
-* Download a .GPX of Tuesday's chaingang route
-
 ## Thursday
 
 Thursday's pan-flat route goes East through Holtby, Buttercrambe, Full Sutton, Fangfoss, Pocklington, then back via Allerthorpe, Melbourne, Sutton upon Derwent and Elvington.
-
-* View Thursday's chaingang route
-* Download a .TCX of Thursday's route
-* Download a .GPX of Thursday's route
-
 
 ## Saturday Club Run
 
