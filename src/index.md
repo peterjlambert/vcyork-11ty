@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Velo Club York
+title: A club for racing cyclists
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
