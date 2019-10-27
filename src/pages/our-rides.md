@@ -29,7 +29,7 @@ Thursday's pan-flat route goes East through Holtby, Buttercrambe, Full Sutton, F
 
 ## Saturday Club Run
 
-Start your weekend off with a fast, social training ride. Usually hilly and almost always quick. Expect three or more hours in the company of experienced racing cyclists.
+Start your weekend off with a fast, social training ride. Usually hilly, expect around 120km in the company of experienced racing cyclists. Average speed can depend on the route, conditions and who’s out, but is generally around 27-30kph.
 
 Rides run all year round and start at 9am from the bus shelter outside Nestle on Haxby Road (opposite Joseph Rowntree Theatre).
 
