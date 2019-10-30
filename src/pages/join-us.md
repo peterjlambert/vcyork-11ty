@@ -5,9 +5,9 @@ permalink: join/index.html
 ---
 ## Want to be a part of VC York?
 
-The best way to get started with VC York is to come along and join our rides. You don't have to be a member to ride with us and we'll always try to make you feel welcome.
+The best way to get started with VC York is to come along and join in on our rides. You don't have to be a member to ride with us and we'll always try to make you feel welcome. There's a wealth of experience and cycling knowledge in the club that we'd love to share with you.
 
-Have a look at our rides page and follow us on [Twitter](https://twitter.com/veloclubyork) or follow our [Facebook page](https://www.facebook.com/veloclubyork/)
+Have a look at our rides page and follow us on [Twitter](https://twitter.com/veloclubyork) or follow our [Facebook page](https://www.facebook.com/veloclubyork/) 
 
 ## Join the Club
 
