@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: COVID-19 No Chaingang 2020
+title: COVID-19 - Chaingang 2020 is CANCELLED
 metaDesc: >-
   Next Tuesday would normally be the start of chaingang season. DO NOT GO TO CHAINGANG.
 date: 2020-03-23T12:15:00.061Z
