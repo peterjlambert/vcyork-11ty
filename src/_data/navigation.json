@@ -1,19 +1,8 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
-      "external": false
-    },
-    {
-      "text": "Our Rides",
-      "url": "/rides",
-      "external": false
-    },
-    {
-      "text": "Join Us",
-      "url": "/join",
-      "external": false
+      "text": "Email Us",
+      "url": "mailto:stevegb68@hotmail.com"
     }
   ]
 }
