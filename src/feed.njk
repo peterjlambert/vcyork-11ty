@@ -7,7 +7,7 @@ permalink: '/feed.xml'
 	<subtitle></subtitle>
 	<link href="{{ site.url }}{{ permalink }}" rel="self"/>
 	<link href="{{ site.url }}/"/>
-	<updated>{{ collections.posts | rssLastUpdatedDate }}</updated>
+	<updated>{% if collections.posts.length %}{{ collections.posts | rssLastUpdatedDate }}{% endif %}</updated>
 	<id>{{ site.url }}</id>
 	<author>
   <name>{{ site.authorName }}</name>
