@@ -1,10 +1,8 @@
 ---
 layout: home
-title: A club for racing cyclists
+title: Time Trial Racing Team
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
-A long standing and highly respected racing cycling club in York.
-
-For more information, email [Steve Gore Browne](stevegb68@outlook.com)
+For more information, email [Steve Gore Browne](mailto:stevegb68@outlook.com)
